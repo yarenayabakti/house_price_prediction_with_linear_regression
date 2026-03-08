@@ -1,0 +1,17 @@
+Install the following Python libraries before running the project:
+
+matplotlib
+
+numpy
+
+pandas
+
+seaborn
+
+scikit-learn
+
+If these libraries are already installed on your system, you can skip this step.
+
+Make sure that all project files and the dataset are located in the same folder.
+
+After that, you can run the script and review the code.
